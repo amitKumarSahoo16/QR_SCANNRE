@@ -1,0 +1,39 @@
+ .d1{
+    height: 400px;
+    width: 250px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    border-radius: 2rem;
+    position: relative;
+    left: 600px;
+    top: 200px;
+    background-color: whitesmoke;
+  
+ }
+  
+ img{
+    height: 200px;
+    width: 200px;
+    border-radius: 2rem;
+   
+ }
+
+ .d2{
+    position: absolute;
+    top: 10px;
+ }
+ .d3{
+   position: absolute;
+   top: 200px;
+   left: 30px;
+ }
+ 
+ h4{
+   margin-left: 15px;
+ }
+  
+ body{
+   background-color: rgb(209, 174, 242);
+ }
+ 
